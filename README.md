@@ -15,4 +15,4 @@
 - 微信小程序搜索 奇奇怪怪的软件
 
 - 微信扫描二维码
-<img src="/assets/images/app_qcode.jpg" width="100%">
+<img src="/assets/images/app_qcode.jpg" width="40%">
